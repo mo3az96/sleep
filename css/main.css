@@ -301,7 +301,7 @@ html[dir=rtl] .search-button {
 }
 html[dir=ltr] .newsletter-button {
   right: 18px;
-  transform: rotate(180deg);
+  transform: rotate(180deg) translateY(-50%);
 }
 html[dir=rtl] .newsletter-button {
   left: 18px;
