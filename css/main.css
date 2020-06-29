@@ -1520,6 +1520,7 @@ footer {
   color: #262626;
   font-weight: bold;
   margin-bottom: 15px;
+  text-transform: uppercase;
 }
 
 .nav-foot-li {
