@@ -802,6 +802,9 @@ footer .col-sm-3:nth-of-type(4) .nav-foot-cont::after {
   display: flex;
   overflow: hidden;
 }
+html[dir=ltr] .product .pro-name {
+  height: 39px;
+}
 .product .pro-name a {
   font-size: 15px;
   color: #262626;
