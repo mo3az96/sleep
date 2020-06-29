@@ -815,6 +815,11 @@ footer .col-sm-3:nth-of-type(4) .nav-foot-cont::after {
   color: #5DA8D6;
 }
 @media (max-width: 992px) {
+  .product .pro-name a {
+    font-size: 13px;
+  }
+}
+@media (max-width: 992px) {
   .product .pro-name {
     padding: 0;
   }
